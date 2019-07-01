@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BusinessCardTextFileRepository.cs" />
-    <Compile Include="IBusinessCardRepository.cs" />
+    <Compile Include="Repository\BusinessCardTextFileRepository.cs" />
+    <Compile Include="Repository\IBusinessCardRepository.cs" />
     <Compile Include="Model\BusinessCard.cs" />
     <Compile Include="Repository\ITextFileRepository.cs" />
     <Compile Include="Repository\IUserRepository.cs" />
